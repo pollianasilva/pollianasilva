@@ -17,8 +17,14 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pollianasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=F7A7E8"/>
 </div>
 
-<div style="display: inline_block" align = "center"><br>  
-   <h2>Desenvolmento de Jogos:</h2>  
+  <h2>Soft Skills:</h2>
+ <div style="display: inline_block" align = "center"><br>
+• Adaptabilidade • Comunicação • Criatividade • Empatia • Ética • Inteligência Emocional • Relacionamento interpessoal •  Trabalho em Equipe •
+ </div>
+
+
+<div style="display: inline_block" align = "center"><br>
+  <h2>Desenvolmento de Jogos:</h2>  
    <img align="center" alt="Polly-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">  
   <img align="center" alt="Polly-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Polly-VS" height="30" width="40" src="https://skillicons.dev/icons?i=unity">  
