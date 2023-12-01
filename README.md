@@ -23,7 +23,7 @@
   <img align="center" alt="Polly-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Polly-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="border: 5px solid #ffffff;"> 
   <img align="center" alt="Polly-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">   
-  <h2>FullStack:</h2>
+  <h2>Estou aprendendo:</h2>
   <img align="center" alt="Polly-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   <img align="center" alt="Polly-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Polly-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
