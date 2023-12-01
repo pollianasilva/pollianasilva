@@ -43,7 +43,11 @@
   <a href="https://polliana-silva.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/polliana.basi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 </div>
-![github-contribution-grid-snake](https://github.com/pollianasilva/pollianasilva/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake.svg">
+</picture>
 <br><br>
 <div align="center">
   <a href="https://git.io/typing-svg">
