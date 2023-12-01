@@ -10,7 +10,7 @@
 -  Desenvolvimento de Jogos e  Modelagem de Personagem para Game, 2017 - Senac 🎮
 - Formada em Tecnologia de Gestão da Tecnologia da Informação, 2013 - Anhaguera Educacional 🎓
 
-
+<br><br>
 <div align = "center">  
 <a href="https://github.com/pollianasilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollianasilva&layout=compact&langs_count=7&theme=dracula&title_color=F7A7E8"/>
