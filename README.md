@@ -43,8 +43,8 @@
   <a href="https://polliana-silva.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/polliana.basi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 </div>
-![Snake animation](https://github.com/pollianasilva/pollianasilva/blob/output/github-contribution-grid-snake.svg)
-<br>
+![github-contribution-grid-snake](https://github.com/pollianasilva/pollianasilva/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)
+<br><br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&color=F7A7E8&center=true&vCenter=true&width=500&lines=Thanks+4+your+visit!+😇;There's+so+much+more+to+me+you+haven't+seen+❣️">
