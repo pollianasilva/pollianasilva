@@ -1,7 +1,7 @@
 <img align="right">
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=F7A7E8&center=true&vCenter=true&width=500&lines=Hello+Word!+👋;my+name's+Polliana+😄;I'm+a+fullstack+student+😎">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=F7A7E8&center=true&vCenter=true&width=500&lines=Hello+Word!+🫶;my+name's+Polliana+😄;I'm+a+fullstack+student+😎">
   </a>
 </div>
 
@@ -20,16 +20,16 @@
 <div style="display: inline_block" align = "center"><br>  
    <h2>Desenvolmento de Jogos:</h2>  
    <img align="center" alt="Polly-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">  
-  <img align="center" alt="Polly-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Polly-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="border: 5px solid #ffffff;"> 
+  <img align="center" alt="Polly-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="Polly-VS" height="30" width="40" src="https://skillicons.dev/icons?i=unity">  
   <img align="center" alt="Polly-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">   
   <h2>Estou aprendendo:</h2>
   <img align="center" alt="Polly-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   <img align="center" alt="Polly-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Polly-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img align="center" alt="Polly-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
-  <img align="center" alt="Polly-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   
-  <img align="center" alt="Polly-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  style="border: 5px solid #ffffff;">    
+  <img align="center" alt="Polly-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Polly-VS" height="30" width="40" src="https://skillicons.dev/icons?i=github">  
   <img align="center" alt="Polly-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="Polly-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
    <img align="center" alt="Polly-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">  
@@ -43,7 +43,9 @@
   <a href="https://polliana-silva.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/polliana.basi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
 
-  
+
+
+
   
 </div>
 
