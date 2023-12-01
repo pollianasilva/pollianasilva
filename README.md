@@ -15,10 +15,9 @@
 <a href="https://github.com/pollianasilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollianasilva&layout=compact&langs_count=7&theme=dracula&title_color=F7A7E8"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pollianasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=F7A7E8"/>
-</div>
-
-  <h2>Soft Skills:</h2>
+</div>  
  <div style="display: inline_block" align = "center"><br>
+   <h2>Soft Skills:</h2>
 • Adaptabilidade • Comunicação • Criatividade • Empatia • <br>• Ética • Inteligência Emocional • Relacionamento interpessoal •  Trabalho em Equipe •
  </div>
 
@@ -49,11 +48,10 @@
   <a href="https://polliana-silva.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/polliana.basi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake.svg">
+<p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake.svg">
-</picture>
+</p>
+
 <br><br>
 <div align="center">
   <a href="https://git.io/typing-svg">
