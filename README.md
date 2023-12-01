@@ -1,7 +1,7 @@
 <img align="right">
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=F7A7E8&center=true&vCenter=true&width=500&lines=Hello+Word!+🫶;my+name's+Polliana+😄;I'm+a+fullstack+student+😎">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=F7A7E8&center=true&vCenter=true&width=500&lines=Hello+Word!👾;Welcome+to+my+Github+profile+🫶;my+name's+Polliana+😄;I'm+a+fullstack+student+😎">
   </a>
 </div>
 
@@ -41,14 +41,9 @@
   <a href="https://www.linkedin.com/in/polliana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href =mailto:polly.cr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://polliana-silva.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/polliana.basi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
-
-
-
-
-  
+  <a href="https://www.facebook.com/polliana.basi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 </div>
-
+![Snake animation](https://github.com/pollianasilva/pollianasilva/blob/output/github-contribution-grid-snake.svg)
 <br>
 <div align="center">
   <a href="https://git.io/typing-svg">
