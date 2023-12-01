@@ -19,7 +19,7 @@
 
   <h2>Soft Skills:</h2>
  <div style="display: inline_block" align = "center"><br>
-• Adaptabilidade • Comunicação • Criatividade • Empatia • Ética • Inteligência Emocional • Relacionamento interpessoal •  Trabalho em Equipe •
+• Adaptabilidade • Comunicação • Criatividade • Empatia • <br>• Ética • Inteligência Emocional • Relacionamento interpessoal •  Trabalho em Equipe •
  </div>
 
 
