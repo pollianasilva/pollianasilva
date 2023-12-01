@@ -38,10 +38,11 @@
   <img align="center" alt="Polly-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
   <img align="center" alt="Polly-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Polly-visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"><h2>ㅤㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤㅤ ㅤㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤㅤ </h2>
-  <a href="https://https://www.linkedin.com/in/polliana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:polly.cr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/polliana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href =mailto: polly.cr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://polliana-silva.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/polliana.basi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
+
   
   
 </div>
