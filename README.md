@@ -6,7 +6,7 @@
 </div><br>
 
 
-- Desenvolvedora Full Stack em Formação, 2024 - RecodePro 👩‍💻
+- Desenvolvedora Full Stack, 2024 - RecodePro 👩‍💻
 -  Desenvolvimento de Jogos e  Modelagem de Personagem para Game, 2017 - Senac 🎮
 - Formada em Tecnologia de Gestão da Tecnologia da Informação, 2013 - Anhaguera Educacional 🎓
 
