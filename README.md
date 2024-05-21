@@ -7,7 +7,7 @@
 
 - Graduada em Tecnologia de Gestão da Tecnologia da Informação, 2013 🎓
 - Me aventurei na área de games nos cursos: Desenvolvimento de Jogos e Modelagem de Personagem, 2017 🎮
-- Retornei os estudos no bootcamp:Desenvolvedor Full Stack, 2023 👩‍💻
+- Retornei os estudos no bootcamp: Desenvolvedor Full Stack, 2023 👩‍💻
 - Me preparo para área de dados no bootcamp: Analista de Dados e Dashboards, 2024 🎲
 - Planos para o futuro 🏋️‍♀️
   
