@@ -38,7 +38,7 @@ Minha jornada é uma prova de resiliência e determinação, e espero inspirar o
 ![Gestão de projeto](https://img.shields.io/badge/Gestão_de_projeto-ffb901?style=for-the-badge&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Polly-PS" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Polly-Blender" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -49,7 +49,7 @@ Minha jornada é uma prova de resiliência e determinação, e espero inspirar o
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Polly-bootstrap" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Polly-JS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=github"alt="Polly-github" height="40" width="40"/> 
+<img src="https://skillicons.dev/icons?i=github"alt="Polly-github" height="40" width="40"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Polly-Java" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
