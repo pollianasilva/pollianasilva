@@ -38,8 +38,7 @@ Minha jornada é uma prova de resiliência e determinação, e espero inspirar o
 ![Gestão de projeto](https://img.shields.io/badge/Gestão_de_projeto-ffb901?style=for-the-badge&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Polly-PS" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Polly-Blender" height="40" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -61,8 +60,7 @@ Minha jornada é uma prova de resiliência e determinação, e espero inspirar o
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Polly-mongodb" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Polly-py" height="40" width="40">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Polly-visualstudio" height="40" width="40">  
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Polly-visualstudio" height="40" width="40"> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:polly.cr@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" height="30" width="30" /></a> 
