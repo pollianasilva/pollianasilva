@@ -71,6 +71,6 @@ Minha jornada é uma prova de resiliência e determinação, e espero inspirar o
 <a href="https://kaggle.com/pollianasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pollianasilva" height="30" width="40" /></a>
 <a href="https://polliana-silva.itch.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/331445/itch.svg" alt="Itch.io" height="30" width="30" /></a>
 </p>
-<hr><p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake.svg"></p><hr>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&color=F7A7E8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙈;There's+so+much+more+to+me+you+haven't+seen+❣️"></a></div>
+<hr><div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&color=F7A7E8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙈;There's+so+much+more+to+me+you+haven't+seen+❣️"></a></div>
+<p align="center"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pollianasilva/pollianasilva/output/github-contribution-grid-snake.svg"></p><hr>
+
