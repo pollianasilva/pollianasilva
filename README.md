@@ -67,7 +67,7 @@ Minha jornada é uma prova de resiliência e determinação, e espero inspirar o
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:polly.cr@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" height="30" width="30" /></a> 
-<a href="https://linkedin.com/in/linkedin.com/in/polliana-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/polliana-silva/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/polliana-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/polliana-silva/" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/polliana.basi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/polliana.basi/" height="30" width="40" /></a>
 <a href="https://kaggle.com/pollianasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pollianasilva" height="30" width="40" /></a>
 <a href="https://polliana-silva.itch.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/331445/itch.svg" alt="Itch.io" height="30" width="30" /></a>
